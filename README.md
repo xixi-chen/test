@@ -1,5 +1,4 @@
 # test
 测试
 
-
-lalala
+printf("Hello World");
